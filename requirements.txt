@@ -1,0 +1,11 @@
+# Versions this project was developed and tested with (lower bounds).
+numpy>=2.5.4
+pandas>=3.1.1
+scipy>=1.18.1
+scikit-learn>=1.9.1   # required by the lightgbm sklearn API (LGBMRanker)
+lightgbm>=4.7.0
+mlflow>=3.18.0
+streamlit>=1.67.0
+plotly>=7.1.0
+matplotlib>=3.11.2
+pytest>=9.2.0
